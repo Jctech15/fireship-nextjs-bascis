@@ -7,7 +7,7 @@ export default function Game({ game }) {
 
   return (
     <>
-      <Head>I am the HEAD</Head>
+      <Head>I am the HEAD, OKAY?</Head>
       <h1>{game.id} </h1>
       <img src={game.image} width="500px" />
     </>
